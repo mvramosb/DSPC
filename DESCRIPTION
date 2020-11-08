@@ -1,0 +1,11 @@
+Package: DSPC
+Type: Package
+Title: Perform Dual STATIS - Parallel Coordinates analysis
+Version: 1.0.0
+Author: Miriam Ramos-Barberán, Francisco Vera, Miriam Vanessa Hinojosa-Ramos, José Ascencio-Moreno
+Maintainer: The package maintainer <mvramosb@espol.edu.ec>
+Description: Application of DS-PC strategy
+License: GPL-2 | GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
