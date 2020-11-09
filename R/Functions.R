@@ -369,7 +369,7 @@ DualSTATISprojection = function(Dsrs,newTobj){
 #' variables in the Intrastructure contained in a Dual STATIS results list derived
 #' from \code{DualSTATIS} function.
 #'
-#' @importFrom aplpack compute.bagplot
+#' @import aplpack
 #' @param Dsrs A list containing Dual STATIS results obtained from \code{DualSTATIS} function,
 #'
 #' @return A list containing coordinates of points conforming the hull and center of
